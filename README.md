@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/bhavay_makkar" target="blank"><img src="https://img.shields.io/twitter/follow/bhavay_makkar?logo=twitter&style=for-the-badge" alt="bhavay_makkar" /></a> </p>
 
-- 🌱 I’m currently learning **Node.JS**
+- 4th Year Full Stack CSE student 🎓
 
-- 💬 Ask me about **MEARN**
+- 💬 Ask me about MERN Stack 
 
-- 📫 How to reach me **bhavaymakkar12345@gmail.com**
+- 📫 How to reach me: **bhavaymakkar12345@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
