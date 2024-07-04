@@ -8,9 +8,9 @@
 
 - 4th Year Full Stack CSE student 🎓
 
-- 💬 Ask me about MERN Stack 
+- 💬 Possessing extensive understanding of both front-end and back-end technologies
 
-- 📫 How to reach me: **bhavaymakkar12345@gmail.com**
+- 📫 Contact: **bhavaymakkar12345@gmail.com** ✉️
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
