@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Bhavay Makkar</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">I am a Frontend Developer </h3>
 <img align="right" alt="Coding" Width="400" src="https://repository-images.githubusercontent.com/462900780/0a10af70-6cbf-46df-9071-0ff586a3b1d6"
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bhavaymakkar&label=Profile%20views&color=0e75b6&style=flat" alt="bhavaymakkar" /> </p>
